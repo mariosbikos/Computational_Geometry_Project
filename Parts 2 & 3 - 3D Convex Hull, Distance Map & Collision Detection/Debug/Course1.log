@@ -1,0 +1,176 @@
+﻿Build started 7/3/2013 8:32:55 AM.
+     1>Project "C:\Users\mariosbikos\Desktop\2o-3o Erotima\Course1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Isrc\Time /Isrc\Algorithm\Random /Isrc\Math /Isrc\Geometry /Isrc /I"GeoLib\GeoPolygons 4.0" /I"GeoLib\GeoLib 4.0" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _STATIC /D GLUT_BUILDING_LIB /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt AABB.cpp BitOps.cpp Capsule.cpp Circle.cpp Clock.cpp float2.cpp float3.cpp float3x3.cpp float3x4.cpp float4.cpp float4x4.cpp Frustum.cpp LCG.cpp Line.cpp LineSegment.cpp main.cpp MathFunc.cpp MathLog.cpp MathOps.cpp OBB.cpp Plane.cpp Polygon.cpp Polyhedron.cpp Polynomial.cpp Quat.cpp Ray.cpp Sphere.cpp SSEMath.cpp TransformOps.cpp Triangle.cpp TriangleMesh.cpp visuals.cpp
+         visuals.cpp
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\visuals.cpp(235): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\visuals.cpp(264): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\visuals.cpp(277): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\visuals.cpp(293): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\visuals.cpp(295): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\visuals.cpp(323): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\visuals.cpp(342): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\visuals.cpp(384): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\visuals.cpp(549): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\visuals.cpp(564): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\visuals.cpp(639): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\visuals.cpp(669): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\visuals.cpp(679): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\visuals.cpp(681): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\visuals.cpp(703): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\visuals.cpp(716): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\visuals.cpp(746): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\visuals.cpp(755): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\visuals.cpp(765): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\visuals.cpp(771): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\visuals.cpp(784): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\visuals.cpp(806): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\visuals.cpp(452): warning C4101: 'etc' : unreferenced local variable
+         TriangleMesh.cpp
+         Triangle.cpp
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\triangle.cpp(1646): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+         TransformOps.cpp
+         SSEMath.cpp
+         Sphere.cpp
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\sphere.cpp(1258): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+         Ray.cpp
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\ray.cpp(441): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+         Quat.cpp
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\quat.cpp(633): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\quat.cpp(643): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\quat.cpp(651): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+         Polynomial.cpp
+         Polyhedron.cpp
+         Polygon.cpp
+         Plane.cpp
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\plane.cpp(890): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+         OBB.cpp
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\obb.cpp(1025): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+         MathOps.cpp
+         MathLog.cpp
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\mathlog.cpp(129): warning C4996: 'vsnprintf': This function or variable may be unsafe. Consider using vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(340) : see declaration of 'vsnprintf'
+         MathFunc.cpp
+         main.cpp
+         LineSegment.cpp
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\linesegment.cpp(472): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+         Line.cpp
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\line.cpp(414): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+         LCG.cpp
+         Generating Code...
+         Compiling...
+         Frustum.cpp
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\frustum.cpp(709): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+         float4x4.cpp
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\float4x4.cpp(2005): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\float4x4.cpp(2017): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+         float4.cpp
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\float4.cpp(395): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\float4.cpp(403): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+         float3x4.cpp
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\float3x4.cpp(1558): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\float3x4.cpp(1570): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+         float3x3.cpp
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\float3x3.cpp(1450): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\float3x3.cpp(1461): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+         float3.cpp
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\float3.cpp(220): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\float3.cpp(228): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+         float2.cpp
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\float2.cpp(240): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\float2.cpp(248): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+         Clock.cpp
+         Circle.cpp
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\circle.cpp(251): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+         Capsule.cpp
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\capsule.cpp(419): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+         BitOps.cpp
+         AABB.cpp
+     1>c:\users\mariosbikos\desktop\2o-3o erotima\aabb.cpp(1070): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+         Generating Code...
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Debug\Course1.exe" /INCREMENTAL /NOLOGO /LIBPATH:"GeoLib\GeoPolygons 4.0\Debug" /LIBPATH:"GeoLib\GeoLib 4.0\Debug" /LIBPATH:gl odbc32.lib odbccp32.lib opengl32.lib glaux.lib glut32.lib GeoLib.lib GeoPolygons.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Debug\Course1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Debug\Course1.lib" /MACHINE:X86 /SAFESEH Debug\AABB.obj
+         Debug\BitOps.obj
+         Debug\Capsule.obj
+         Debug\Circle.obj
+         Debug\Clock.obj
+         Debug\float2.obj
+         Debug\float3.obj
+         Debug\float3x3.obj
+         Debug\float3x4.obj
+         Debug\float4.obj
+         Debug\float4x4.obj
+         Debug\Frustum.obj
+         Debug\LCG.obj
+         Debug\Line.obj
+         Debug\LineSegment.obj
+         Debug\main.obj
+         Debug\MathFunc.obj
+         Debug\MathLog.obj
+         Debug\MathOps.obj
+         Debug\OBB.obj
+         Debug\Plane.obj
+         Debug\Polygon.obj
+         Debug\Polyhedron.obj
+         Debug\Polynomial.obj
+         Debug\Quat.obj
+         Debug\Ray.obj
+         Debug\Sphere.obj
+         Debug\SSEMath.obj
+         Debug\TransformOps.obj
+         Debug\Triangle.obj
+         Debug\TriangleMesh.obj
+         Debug\visuals.obj
+     1>AABB.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+         GeoLib.lib(C2DRect.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+     1>LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     1>AABB.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+     1>LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+         Generating code
+         Finished generating code
+     1>GeoLib.lib(C2DRect.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'GeoLib.lib(C2DRect.obj)' or at 'C:\Users\mariosbikos\Desktop\2o-3o Erotima\Debug\vc80.pdb'; linking object as if no debug info
+     1>GeoLib.lib(C2DPointSet.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'GeoLib.lib(C2DPointSet.obj)' or at 'C:\Users\mariosbikos\Desktop\2o-3o Erotima\Debug\vc80.pdb'; linking object as if no debug info
+     1>GeoLib.lib(C2DVector.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'GeoLib.lib(C2DVector.obj)' or at 'C:\Users\mariosbikos\Desktop\2o-3o Erotima\Debug\vc80.pdb'; linking object as if no debug info
+     1>GeoLib.lib(C2DPoint.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'GeoLib.lib(C2DPoint.obj)' or at 'C:\Users\mariosbikos\Desktop\2o-3o Erotima\Debug\vc80.pdb'; linking object as if no debug info
+     1>GeoLib.lib(Interval.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'GeoLib.lib(Interval.obj)' or at 'C:\Users\mariosbikos\Desktop\2o-3o Erotima\Debug\vc80.pdb'; linking object as if no debug info
+     1>GeoLib.lib(C2DLine.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'GeoLib.lib(C2DLine.obj)' or at 'C:\Users\mariosbikos\Desktop\2o-3o Erotima\Debug\vc80.pdb'; linking object as if no debug info
+     1>GeoLib.lib(C2DBaseSet.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'GeoLib.lib(C2DBaseSet.obj)' or at 'C:\Users\mariosbikos\Desktop\2o-3o Erotima\Debug\vc80.pdb'; linking object as if no debug info
+     1>GeoLib.lib(C2DCircle.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'GeoLib.lib(C2DCircle.obj)' or at 'C:\Users\mariosbikos\Desktop\2o-3o Erotima\Debug\vc80.pdb'; linking object as if no debug info
+     1>GeoLib.lib(Grid.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'GeoLib.lib(Grid.obj)' or at 'C:\Users\mariosbikos\Desktop\2o-3o Erotima\Debug\vc80.pdb'; linking object as if no debug info
+     1>GeoLib.lib(C2DTriangle.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'GeoLib.lib(C2DTriangle.obj)' or at 'C:\Users\mariosbikos\Desktop\2o-3o Erotima\Debug\vc80.pdb'; linking object as if no debug info
+     1>GeoLib.lib(C2DLineBase.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'GeoLib.lib(C2DLineBase.obj)' or at 'C:\Users\mariosbikos\Desktop\2o-3o Erotima\Debug\vc80.pdb'; linking object as if no debug info
+     1>GeoLib.lib(C2DArc.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'GeoLib.lib(C2DArc.obj)' or at 'C:\Users\mariosbikos\Desktop\2o-3o Erotima\Debug\vc80.pdb'; linking object as if no debug info
+     1>GeoLib.lib(C2DLineBaseSet.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'GeoLib.lib(C2DLineBaseSet.obj)' or at 'C:\Users\mariosbikos\Desktop\2o-3o Erotima\Debug\vc80.pdb'; linking object as if no debug info
+     1>GeoLib.lib(IndexSet.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'GeoLib.lib(IndexSet.obj)' or at 'C:\Users\mariosbikos\Desktop\2o-3o Erotima\Debug\vc80.pdb'; linking object as if no debug info
+         Course1.vcxproj -> C:\Users\mariosbikos\Desktop\2o-3o Erotima\Debug\Course1.exe
+     1>Done Building Project "C:\Users\mariosbikos\Desktop\2o-3o Erotima\Course1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:02:12.79
