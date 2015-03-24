@@ -11,6 +11,6 @@ The Distance Map was colored based on the distance calculated.
 
 # Part 2
 
-Computed the 3D Convex Hull of a 3D Model given(Dolphin) and after that create a distance map.
+Computed the 3D Convex Hull of a 3D Model given(Dolphin) and after that created a distance map.
 
 ![Part 2](https://raw.githubusercontent.com/mariosbikos/Computational_Geometry_Project/master/project%20pics/3d%20ch%20dolphin.png "3D Convex Hull")
